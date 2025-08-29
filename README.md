@@ -51,8 +51,7 @@ This project analyzes PhonePe’s digital payments data across India, focusing o
 - Device usage patterns and insurance adoption reveal new business opportunities
 - The dashboard enables real-time, business-focused exploration and decision-making
 
-## 📞 Contact
-For questions or collaboration, please contact: [Your Name] (<your-email@example.com>)
+
 
 ---
-*Data Source: PhonePe Pulse | Project by [Your Name]* 
+*Data Source: PhonePe Pulse | Project by Ishvit* 
